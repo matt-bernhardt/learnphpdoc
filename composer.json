@@ -2,8 +2,8 @@
     "name": "mjbernha/learnphpdoc",
     "description": "Kicking the tires with phpDoc",
     "type": "project",
-    "require": {
-        "phpdocumentor/phpdocumentor": "^2.9"
+    "require-dev": {
+        "phpdocumentor/phpdocumentor": "dev-master"
     },
     "authors": [
         {
