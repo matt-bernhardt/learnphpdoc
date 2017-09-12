@@ -1,0 +1,14 @@
+{
+    "name": "mjbernha/learnphpdoc",
+    "description": "Kicking the tires with phpDoc",
+    "type": "project",
+    "require": {
+        "phpdocumentor/phpdocumentor": "^2.9"
+    },
+    "authors": [
+        {
+            "name": "Matt Bernhardt",
+            "email": "mjbernha@mit.edu"
+        }
+    ]
+}
